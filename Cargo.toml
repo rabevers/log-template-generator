@@ -1,0 +1,9 @@
+[package]
+name = "log-template-generator"
+version = "0.1.0"
+authors = ["Richard Bevers <richard.bevers@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "~2.27.0"
+chrono = "0.4"
